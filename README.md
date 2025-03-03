@@ -20,6 +20,6 @@
 
 - 🔭 Hoje trabalho com Teste de Software
 - 🌱 Estudando Teste de Software
-- 👯 Procuro colaboração em uma equipde de QA
+- 👯 Procuro colaboração em uma equipe de de QA
 - 📫 Contate-me no E-mail: artferreira.studio@gmail.com
 
