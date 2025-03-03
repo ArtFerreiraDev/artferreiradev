@@ -1,6 +1,6 @@
 ## Olá! Eu sou Arthur Ferreira! 🖐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-ferreira-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-ferreira-qa/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/arthurlynx)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/arthur-ferreira-dev/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/aferreirastudio)
@@ -19,7 +19,7 @@
   </div><br/>
 
 - 🔭 Hoje trabalho com Teste de Software
-- 🌱 Estudando Análise de Dados com Python
-- 👯 Procuro colaboração em uma equipde de Data Science
+- 🌱 Estudando Teste de Software
+- 👯 Procuro colaboração em uma equipde de QA
 - 📫 Contate-me no E-mail: artferreira.studio@gmail.com
 
